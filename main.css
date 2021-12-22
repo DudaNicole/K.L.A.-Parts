@@ -1,0 +1,53 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 25px ;
+}
+
+.menu-principal{
+    width: 100%;
+    background-color:#ffffff;
+    height: 250px;
+}
+main{
+    margin: 0 ;
+    width: 100px;
+    position: relative;
+}
+.logo{
+    padding: 20px;
+    margin-left: 500px;
+}
+.header-2 {
+    background-color:#24244d;
+    width: 950%;
+    margin-left: 280;
+    height: 50px;
+    
+}
+.menu ul li {
+    display:inline-block;
+    color:cornsilk;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.menu ul li a {
+    color:#f5efd4;
+    text-decoration: none ;
+    font-size: 15px;
+    text-transform:uppercase;
+   
+}
+.redes-sociais ul li a {
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 300px;
+}
+.texto{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.texto img {
+    margin-left: 150px;
+    margin-right: 150px;
+}
